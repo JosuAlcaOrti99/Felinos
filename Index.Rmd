@@ -1,0 +1,10 @@
+---
+title: "Datos de Felinos de Costa rica "
+author: "Patrick Alcazar"
+date: '2022-06-08'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
